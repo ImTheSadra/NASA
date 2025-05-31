@@ -1,5 +1,5 @@
 let results = [];
-let now = new Date('2025-01-15');
+let now = new Date();
 let cdate = new Date(now.getFullYear(), now.getMonth()-1, now.getDate());
 
 let used = [];
